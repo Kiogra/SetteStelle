@@ -171,7 +171,7 @@ def roll(ctx, roll : str):
 
 
 
-bot.run('MTAxODg2Njg5MTkyNzg2NzQ0Mg.GI-PgK.-vWBGDYQFh9TJ1TgQuMz1VWccRehDthX-dWnDg')
+bot.run('')
 
 
 sys.stdout.flush()

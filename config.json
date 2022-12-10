@@ -1,0 +1,15 @@
+{
+    "bot": [{
+        "token": "MTAxODg2Njg5MTkyNzg2NzQ0Mg.GI-PgK.-vWBGDYQFh9TJ1TgQuMz1VWccRehDthX-dWnDg",
+        "clientId": "1018866891927867442",
+        "guildId": "924682390931132436"
+    }],
+    "emoji":[{
+        "success":"✅",
+        "error":"❌"
+    }],
+    "idCanaliServer": {
+        "onewordstory":"1050818264655212584",
+        "idServer": "795999640536743996"
+    }
+}
